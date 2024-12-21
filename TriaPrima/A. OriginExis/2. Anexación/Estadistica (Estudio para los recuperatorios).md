@@ -1,0 +1,13 @@
+#### **1. Repaso de Conceptos Clave**
+- **Estadística Descriptiva**:
+    - Medidas de tendencia central (media, mediana, moda).
+    - Medidas de dispersión (rango, varianza, desviación estándar).
+    - Gráficos y tablas (histogramas, diagramas de caja, etc.).
+- **Probabilidad**:
+    - Reglas de probabilidad (suma y producto).
+    - Probabilidad condicional y teorema de Bayes.
+    - Distribuciones de probabilidad básicas (binomial, Poisson).
+- **Variables Aleatorias y Modelos de Distribución**:
+    - Definición y propiedades de variables aleatorias discretas y continuas.
+    - Distribuciones discretas (binomial, Poisson, geométrica).
+    - Distribuciones continuas (normal, exponencial, uniforme)

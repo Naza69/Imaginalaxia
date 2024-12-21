@@ -1,0 +1,7 @@
+## Nor1
+Escribe un codigo en Java que, que emule el comportamiento administrativo tributario de un pais, y le permita a cualquiera de estos clasificar sus ciudades como deficitarias o superavitarias. Estos, necesitan de un sistema que les de esa informacion, que se devuelva una lista de las ciudades clasificadas. 
+Para ello:
+	-Crea una clase Pais que tenga los atributos nombre, ciudades, con respectivos setters, getters, constructores, con un metodo (muestraBalanceMensualDeCiudades) que imprima esa informacion. El metodo necesitara extraer un valor booleano de las clases Ciudad, esos valores se encontraran en el retorno de metodos que perteneceran a estas; la logica del metodo tendra que crear dos listas de cadenas con los nombres de las ciudades deficitarias por un lado, y las superavitarias por el otro, que sean la que den al retorno vacio que las mostrara.
+	-Crea una clase Ciudad que tenga los atributos nombre, 5 impuestos (imp1, imp2, imp3, imp4 e imp5 respectivamente) y gasto, con respectivos setters, getters, constructores, con un metodo (balance) que devuelva un booleano resultado de la resta entre la suma de los impuestos y el gasto, false si el valor es deficitario y true si es superavitario.
+## Nor2
+Escribe un codigo en Java que emule el registro de un aerodromo, un aerodromo tiene aviones, hangares, mecanicos, pilotos y servicios empleados por mecanicos, por tanto, el registro debera llevarse de la siguiente manera

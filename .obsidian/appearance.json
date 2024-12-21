@@ -1,0 +1,10 @@
+{
+  "accentColor": "#32fb9d",
+  "cssTheme": "ITS Theme",
+  "textFontFamily": "Lora",
+  "interfaceFontFamily": "Roboto",
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [],
+  "theme": "obsidian",
+  "baseFontSize": 16
+}

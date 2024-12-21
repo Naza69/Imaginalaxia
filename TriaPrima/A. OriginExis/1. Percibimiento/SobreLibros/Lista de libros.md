@@ -1,0 +1,4 @@
+- How to blow up a pipeline de Andreas Malm
+- The price is wrong: why capitalism wont save the planet de Brett Christophers
+- Slow down: The degrowth manifesto de Kohei Saito
+- 

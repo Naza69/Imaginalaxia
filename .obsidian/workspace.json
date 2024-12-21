@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "75cd4b3644845861",
+    "type": "split",
+    "children": [
+      {
+        "id": "a996c8be3ece9090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ebc5f065d73a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoliloquiosMisceláneos/Registros/NotasRol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NotasRol"
+            }
+          },
+          {
+            "id": "6403498da7490f49",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SoliloquiosMisceláneos/Registros/FichaEditableAlf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FichaEditableAlf"
+            }
+          },
+          {
+            "id": "0d34a6f3cb3f1312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoliloquiosMisceláneos/Registros/Borrador presentación final Blockchain.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Borrador presentación final Blockchain"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c86523db04e4f77",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf00170bf560805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea67a7efded80a28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1505f68fa0926f04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "feadbe57f64c766a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db3b9dbad497b460",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2ae27a01c59b0d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "059310641aa1761e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf2ae11f12dce16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SoliloquiosMisceláneos/DatosDePared/Cuentas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cuentas"
+            }
+          },
+          {
+            "id": "997ed3af7fe8ba67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SoliloquiosMisceláneos/DatosDePared/Cuentas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cuentas"
+            }
+          },
+          {
+            "id": "eb699e9fb2d8ddd9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f15ab8fb287df4f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SoliloquiosMisceláneos/DatosDePared/Cuentas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cuentas"
+            }
+          },
+          {
+            "id": "b93ca918d9d379b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "password-protection:Lock password protection": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "6403498da7490f49",
+  "lastOpenFiles": [
+    "SoliloquiosMisceláneos/Registros/NotasRol.md",
+    "SoliloquiosMisceláneos/Registros/FichaEditableAlf.pdf",
+    "SoliloquiosMisceláneos/Registros/Borrador presentación final Blockchain.md",
+    "SoliloquiosMisceláneos/Registros/FichaEditableAlf (1).pdf",
+    "SoliloquiosMisceláneos/Registros/Borrador presentación final Mendotran.md",
+    "SoliloquiosMisceláneos/Registros/FichaEditableSilvanalFamiliarAlf (1).pdf",
+    "SoliloquiosMisceláneos/Registros/FichaEditableSilvanalFamiliarAlf.pdf",
+    "SoliloquiosMisceláneos/Registros/Ese dia que apareci en la tele.md",
+    "SoliloquiosMisceláneos/Registros/Ficha_2018_Pathfinder_Editable2.pdf",
+    "SoliloquiosMisceláneos/Registros/FichaSilvanalFamiliarAlfEditable.pdf",
+    "SoliloquiosMisceláneos/Registros/Horarios de nuestra comision tercer semestre.md",
+    "SoliloquiosMisceláneos/Registros/Lore de Alfastralio Omegin.md",
+    "Nota Maestra.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/Transitivo InvOp/Clase 6.9.2024.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/Transitivo InvOp/Clase 13.9.2024.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/Transitivo InvOp/Primer clase investigación operativa.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/Transitivo InvOp/Segunda clase de investigacion operativa.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/Transitivo InvOp/Tercera clase investigación operativa 30.8.2024.md",
+    "TriaPrima/B. EterWorking/2. Ideación/Los libros idearios del posliberalismo _231212_180557.md",
+    "TriaPrima/A. OriginExis/6. Racionalización/Diferencia del posliberalismo con el comunitarismo_231221_112548.md",
+    "TriaPrima/A. OriginExis/3. Investigación/Desarrollo posliberalismo.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/SesionesRol/Noviembre/Sesion1.11.2024Rol.txt",
+    "TriaPrima/A. OriginExis/1. Percibimiento/SesionesRol/Octubre/Sesion25.10.2024Rol.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/SesionesRol/Noviembre",
+    "TriaPrima/A. OriginExis/1. Percibimiento/SesionesRol/Octubre/Sesion18.10.2024Rol.md",
+    "TriaPrima/B. EterWorking/2. Ideación/Los principios generales rectores del posterismo.md",
+    "TriaPrima/B. EterWorking/2. Ideación/GPT Sobre mi posterismo en sus etapas iniciales.md",
+    "TriaPrima/B. EterWorking/4. Bocetos/El posliberalismo como doctrina sincretista (Pie de post en insta).md",
+    "TriaPrima/B. EterWorking/4. Bocetos/El porque del pos en el posliberalismo.md",
+    "TriaPrima/B. EterWorking/2. Ideación/Que es el posterismo.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/SesionesRol/Octubre/Sesion11.10.2024Rol.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/RabbitHole/InteresesVarios/Recreacion/Juegos solarpunk.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/RabbitHole/InteresesVarios/Recreacion/ListadeJuegos1.md",
+    "TriaPrima/A. OriginExis/1. Percibimiento/RabbitHole/InteresesVarios/Recreacion/Untitled",
+    "SoliloquiosMisceláneos/Registros/Ficha_2018_Pathfinder_Editable2 (1).pdf",
+    "Importables/Pasted image 20241011165215.png",
+    "Importables/Pasted image 20241004091942.png",
+    "Importables/Pasted image 20241004091249.png",
+    "Importables/Pasted image 20241002095138.png",
+    "Importables/Pasted image 20241002092426.png",
+    "Importables/Pasted image 20240917093434.png",
+    "Importables/Pasted image 20240917092706.png",
+    "Importables/Pasted image 20240917092114.png",
+    "Importables/Pasted image 20240917082631.png",
+    "Importables/Pasted image 20240913184728.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Facultad/Untitled.canvas"
+  ]
+}

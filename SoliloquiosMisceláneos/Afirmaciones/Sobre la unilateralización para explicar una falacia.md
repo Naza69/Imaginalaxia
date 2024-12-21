@@ -1,0 +1,3 @@
+...orden interpretativo de la realidad ideológico, es decir, adecuan la realidad a ciertas ideas y no viceversa, lo que termina en la determinación unilateral de la causa de cualquier problema relativo a la existencia
+...simplificaciones arbitrarias de la realidad basadas en un orden interpretativo ideológico que adecua la causa de cualquier problema de forma unilateral
+Relativo a lo que dijiste en adhesión, si se simplifica la realidad, y se ataca a esa simplificación se comete la falacia del hombre de paja

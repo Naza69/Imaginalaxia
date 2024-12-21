@@ -1,0 +1,1 @@
+Universalizar el lenguaje, esa es la clave para darnos las puertas al control de nuestro propio cielo

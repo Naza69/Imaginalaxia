@@ -1,0 +1,1 @@
+- [ ] Investigar sobre el concepto de persistencia en la programación

@@ -1,0 +1,23 @@
+{
+  "snippets_file": "des : #### Descripción\nques : ### ¿Que es?\nfuen : ### Fuentes usadas\npringen : ### Principios generales\ncarac : ### Caracteristicas\nfacu : #Facultad $nl$ Profe: $nl$## Tema:\nultmod : **Ultima modificacion**: \ndef : ### Definición\ntip : ### Tipologia\n\nstand : #### Log de modificaciones $nl$#### Diario de progresion conceptual $nl$#### Hashtags de materias\n",
+  "snippets": [
+    "des : #### Descripción",
+    "ques : ### ¿Que es?",
+    "fuen : ### Fuentes usadas",
+    "pringen : ### Principios generales",
+    "carac : ### Caracteristicas",
+    "facu : #Facultad $nl$ Profe: $nl$## Tema:",
+    "ultmod : **Ultima modificacion**: ",
+    "def : ### Definición",
+    "tip : ### Tipologia",
+    "stand : #### Log de modificaciones $nl$#### Diario de progresion conceptual $nl$#### Hashtags de materias"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
