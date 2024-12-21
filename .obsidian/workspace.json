@@ -26,12 +26,15 @@
             "id": "6403498da7490f49",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SoliloquiosMisceláneos/Registros/FichaEditableAlf.pdf"
+                "file": "SoliloquiosMisceláneos/DatosDePared/Cuentas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "FichaEditableAlf"
+              "icon": "lucide-file",
+              "title": "Cuentas"
             }
           },
           {
@@ -226,8 +229,14 @@
   },
   "active": "6403498da7490f49",
   "lastOpenFiles": [
-    "SoliloquiosMisceláneos/Registros/NotasRol.md",
+    "SoliloquiosMisceláneos/DatosDePared/Cuentas_231213_225749.md",
+    "SoliloquiosMisceláneos/DatosDePared/Cuentas facultad_230807_103306.md",
+    "SoliloquiosMisceláneos/DatosDePared/Cuentas.md",
+    "SoliloquiosMisceláneos/DatosDePared/Notes_230706_130233.md",
+    "SoliloquiosMisceláneos/DatosDePared/Notes_230420_143413.md",
+    "SoliloquiosMisceláneos/DatosDePared/Notes_230207_093149.md",
     "SoliloquiosMisceláneos/Registros/FichaEditableAlf.pdf",
+    "SoliloquiosMisceláneos/Registros/NotasRol.md",
     "SoliloquiosMisceláneos/Registros/Borrador presentación final Blockchain.md",
     "SoliloquiosMisceláneos/Registros/FichaEditableAlf (1).pdf",
     "SoliloquiosMisceláneos/Registros/Borrador presentación final Mendotran.md",
@@ -254,11 +263,6 @@
     "TriaPrima/B. EterWorking/2. Ideación/Los principios generales rectores del posterismo.md",
     "TriaPrima/B. EterWorking/2. Ideación/GPT Sobre mi posterismo en sus etapas iniciales.md",
     "TriaPrima/B. EterWorking/4. Bocetos/El posliberalismo como doctrina sincretista (Pie de post en insta).md",
-    "TriaPrima/B. EterWorking/4. Bocetos/El porque del pos en el posliberalismo.md",
-    "TriaPrima/B. EterWorking/2. Ideación/Que es el posterismo.md",
-    "TriaPrima/A. OriginExis/1. Percibimiento/SesionesRol/Octubre/Sesion11.10.2024Rol.md",
-    "TriaPrima/A. OriginExis/1. Percibimiento/RabbitHole/InteresesVarios/Recreacion/Juegos solarpunk.md",
-    "TriaPrima/A. OriginExis/1. Percibimiento/RabbitHole/InteresesVarios/Recreacion/ListadeJuegos1.md",
     "TriaPrima/A. OriginExis/1. Percibimiento/RabbitHole/InteresesVarios/Recreacion/Untitled",
     "SoliloquiosMisceláneos/Registros/Ficha_2018_Pathfinder_Editable2 (1).pdf",
     "Importables/Pasted image 20241011165215.png",

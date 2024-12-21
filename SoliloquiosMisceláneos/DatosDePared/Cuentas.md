@@ -21,3 +21,14 @@ PortSwigger:
 Microsoft: 
 - Mail: fiorettinazareno@gmail.com
 - Contraseña: Nazareno02
+
+Github: 
+- Mail: fiorettinazareno@gmail.com
+- Contraseña: señornazareno02
+
+Google: 
+- Mails y contraseñas respectivamente: 
+	- fiorettinazareno@gmail.com (nazareno02)
+	- fioretazonazareno@gmail.com (nazareno03)
+
+
